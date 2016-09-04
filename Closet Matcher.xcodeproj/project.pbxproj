@@ -35,7 +35,7 @@
 /* Begin PBXFileReference section */
 		3C7811501D6CB31F003A7EE2 /* FeedsCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedsCell.swift; sourceTree = "<group>"; };
 		3C7811531D6D3DFD003A7EE2 /* SignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
-		3C7811551D6DF083003A7EE2 /* Photos Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Photos Default.png"; path = "../../../../Downloads/Photos Default.png"; sourceTree = "<group>"; };
+		3C7811551D6DF083003A7EE2 /* Photos Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Photos Default.png"; sourceTree = SOURCE_ROOT; };
 		3C7811571D6DF5ED003A7EE2 /* ClothingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClothingViewController.swift; sourceTree = "<group>"; };
 		3C7811591D6DF5FD003A7EE2 /* OutfitViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OutfitViewController.swift; sourceTree = "<group>"; };
 		3CCEBF761CFBEE3300E07F49 /* Closet Matcher.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Closet Matcher.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -46,17 +46,17 @@
 		3CCEBF831CFBEE3400E07F49 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3CCEBF851CFBEE3400E07F49 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3CCEBF8D1D042B6A00E07F49 /* FeedsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedsViewController.swift; sourceTree = "<group>"; };
-		3CCEBF951D04383200E07F49 /* Activity Feed-52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Activity Feed-52.png"; path = "../../../../Downloads/Activity Feed-52.png"; sourceTree = "<group>"; };
-		3CCEBF971D04388B00E07F49 /* Circled Up-52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Circled Up-52.png"; path = "../../../../Downloads/Circled Up-52.png"; sourceTree = "<group>"; };
-		3CCEBF981D04388B00E07F49 /* Cloakroom-52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Cloakroom-52.png"; path = "../../../../Downloads/Cloakroom-52.png"; sourceTree = "<group>"; };
-		3CCEBF991D04388B00E07F49 /* Share-52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Share-52.png"; path = "../../../../Downloads/Share-52.png"; sourceTree = "<group>"; };
+		3CCEBF951D04383200E07F49 /* Activity Feed-52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Activity Feed-52.png"; sourceTree = SOURCE_ROOT; };
+		3CCEBF971D04388B00E07F49 /* Circled Up-52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Circled Up-52.png"; sourceTree = SOURCE_ROOT; };
+		3CCEBF981D04388B00E07F49 /* Cloakroom-52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Cloakroom-52.png"; sourceTree = SOURCE_ROOT; };
+		3CCEBF991D04388B00E07F49 /* Share-52.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Share-52.png"; path = "../Share-52.png"; sourceTree = "<group>"; };
 		3CCEBF9D1D0438C400E07F49 /* ShareViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShareViewController.swift; sourceTree = "<group>"; };
 		3CCEBF9F1D0438D300E07F49 /* UploadViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UploadViewController.swift; sourceTree = "<group>"; };
 		3CCEBFA11D0438E400E07F49 /* MeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeViewController.swift; sourceTree = "<group>"; };
-		3CCEBFA31D04432900E07F49 /* Bookmark Ribbon-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Bookmark Ribbon-48.png"; path = "../../../../Downloads/Bookmark Ribbon-48.png"; sourceTree = "<group>"; };
-		3CCEBFA41D04432900E07F49 /* Comments-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Comments-48.png"; path = "../../../../Downloads/Comments-48.png"; sourceTree = "<group>"; };
-		3CCEBFA51D04432900E07F49 /* Like Filled-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Like Filled-48.png"; path = "../../../../Downloads/Like Filled-48.png"; sourceTree = "<group>"; };
-		3CCEBFA91D04436B00E07F49 /* Like-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Like-48.png"; path = "../../../../Downloads/Like-48.png"; sourceTree = "<group>"; };
+		3CCEBFA31D04432900E07F49 /* Bookmark Ribbon-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Bookmark Ribbon-48.png"; sourceTree = SOURCE_ROOT; };
+		3CCEBFA41D04432900E07F49 /* Comments-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Comments-48.png"; sourceTree = SOURCE_ROOT; };
+		3CCEBFA51D04432900E07F49 /* Like Filled-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Like Filled-48.png"; sourceTree = SOURCE_ROOT; };
+		3CCEBFA91D04436B00E07F49 /* Like-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Like-48.png"; sourceTree = SOURCE_ROOT; };
 		69CF33FDA2FF58CA63283B09 /* Pods-Closet Matcher.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Closet Matcher.release.xcconfig"; path = "Pods/Target Support Files/Pods-Closet Matcher/Pods-Closet Matcher.release.xcconfig"; sourceTree = "<group>"; };
 		A980BCEC820033A0F431ABB8 /* Pods-Closet Matcher.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Closet Matcher.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Closet Matcher/Pods-Closet Matcher.debug.xcconfig"; sourceTree = "<group>"; };
 		EB60C2A0B43F44DDD560FB65 /* Pods_Closet_Matcher.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Closet_Matcher.framework; sourceTree = BUILT_PRODUCTS_DIR; };
